@@ -1,2 +1,4 @@
 # v2
-More labs
+More labs with deeper context and understanding.  
+
+
